@@ -1,0 +1,24 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 10px solid #678D58;
+    border-top: 10px solid #5C6F68; /*-  for only top border same wev can do on other sides*/ 
+    border-radius: 50%;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    animation: loader 2s linear 0s infinite normal;
+}
+
+*{
+    background-color: #F85A3E;
+}
+
+@keyframes loader{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}

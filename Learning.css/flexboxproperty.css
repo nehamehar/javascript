@@ -1,0 +1,41 @@
+div{
+    display: inline-block;
+    height: 100px;
+    width: 150px;
+    text-align: center;
+}
+
+*{
+    text-align: center;
+    background-color: crimson;
+}
+    
+#container{
+    height: 600px;
+    width: 600px;
+    border: 1px solid, black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-shrink: 1;
+    /*align-content: center;: using wrap propertry ignore this one property*/
+}
+
+#box1{
+    border: 1px, solid, black;
+    flex-shrink: 1;
+}
+#box2{
+    border: 1px, solid, black;
+    flex-grow: 2;
+}
+#box3{
+    border: 1px, solid, black;
+}
+#box4{
+    border: 1px, solid, black;
+    flex-grow: 1;
+
+}

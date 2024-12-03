@@ -1,0 +1,27 @@
+div{
+    height: 400px;
+    width: 400px;
+    background-color: yellow;
+    border: 2px;
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all; /*for applying all property*/
+    transition-duration: 2s;/*changing all applied property in 2s */
+    transition-timing-function: steps(5);/*in 5 changes we are able to see changesin box can apply ease/linear/ease-out etc*/
+}
+
+
+div:hover{
+    background-color: crimson;
+    font: bolder;
+    font-size: larger;
+    font-style: italic;
+    color: antiquewhite;
+}
+
+div:active{
+    background-color: pink;
+
+}

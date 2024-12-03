@@ -1,0 +1,76 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: azure;
+}
+
+#navbar{
+    background-color: black;
+    height: 50px;
+    width: 1800px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+a{
+    margin: 100px;
+}
+#logo{
+    color: darkgoldenrod;
+    font-size: small;
+}
+p{
+    color: black;
+    text-align: center;
+}
+p2{
+    color: black;
+    text-align: center;
+}
+
+button{
+    background-color: crimson;
+}
+#v{
+    color: darkgreen;
+    top: 500px;
+    border-radius: 50%;
+    padding: 10px;
+    background-image: url(02367.jpg);
+    background-size: cover;
+
+div{
+    display: inline-block;
+    text-align: center;
+    height: 60px;
+    width: 90px;
+    border: 100px;
+    border-color: black;
+}
+#n{
+    position: fixed;
+    bottom: 500px;
+    border-radius: 50%;
+    padding: 10px;
+    background-image: url(Sale.jpg);
+    background-size: cover;
+}
+#b{
+    position: sticky;
+    top: 100px;
+    border-radius: 50%;
+    padding: 10px;
+    background-image: url(S.jpg);
+    background-size: cover;
+}
+
+#f{
+    height: 50px;
+    width: 1800px;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    background-color: rgb(4, 1, 7);
+    left: 0px;
+
+}

@@ -1,0 +1,29 @@
+div{
+    display: inline-block;
+    text-align: center;
+    height: 550px;
+    width: 500px;
+    border: 100px;
+    border-color: black;
+}
+
+#n{
+    border-radius: 50%;
+    padding: 10px;
+    background-image: url(Sale.jpg);
+    background-size: cover;
+}
+    
+#b{
+    border-radius: 50%;
+    padding: 10px;
+    background-image: url(S.jpg);
+    background-size: cover;
+}
+#v{
+    border-radius: 50%;
+    padding: 10px;
+    background-image: url(02367.jpg);
+    background-size: cover;
+
+}

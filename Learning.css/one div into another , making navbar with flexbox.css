@@ -1,0 +1,37 @@
+#navbar{
+    background-color: black;
+    display: flex;  /*for single line navbar do not apply width height to navbar so tht all items will show in a line */ 
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+*{
+    color: aliceblue;
+    font-size: medium;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+    margin: 100px;
+}
+li{
+    display: inline-block;
+    background-color: rgba(255, 242, 240, 0);
+}
+/* one big div under another*/
+#inner{
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+
+}
+#outer{
+    background-color: olive;
+    height: 400px;
+    width: 400px;
+    display: flex; /*for making flexbox or container*/
+    justify-content: center;
+    align-items: center;
+}

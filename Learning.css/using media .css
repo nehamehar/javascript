@@ -1,0 +1,27 @@
+div{
+    background-color: coral;
+    height: 200px;
+    width: 200px;
+}
+@media (width : 600px){
+    div{
+        background-color: cornflowerblue;
+    }
+}
+
+@media (max-width : 400px){
+    div{
+        background-color: rgba(100, 148, 237, 0.459);
+    }
+}
+@media (min-width : 200px){
+    div{
+        background-color: rgba(100, 148, 237, 0.359);
+    }
+}
+
+@media (width : 600px){
+    div{
+        background-color: cornflowerblue;
+    }
+}
