@@ -3,12 +3,12 @@
 //     s= name1+name2;
 //     return s;
 // }
-// let i = myname("Neha loves her ", "Samyak")
+// let i = myname("she is good girl ", "sansita")
 // console.log(i)
 
 // function without parameter namd argument and return statement
 // function Name() {
-//     console.log("my name is neha");
+//     console.log("my name is Neha");
 // }
 // Name();
 // Name();
