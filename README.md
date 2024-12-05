@@ -1,3 +1,3 @@
 # JS-learning
 <br>
-Here is my JS Learning Course
+This repository contains Java Script notes including HTML, CSS I made during my JS course learning journey.
