@@ -6,7 +6,6 @@ Acquired skills through:
 
 [Apna College](https://www.youtube.com/watch?v=VlPiVmYuoqw&ab_channel=ApnaCollege) 
 
-<br>
 🚀 Explore the project here: 
 <br>
 
