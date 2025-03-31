@@ -1,6 +1,7 @@
 # JS-learning
 <br>
 A collection of JavaScript, HTML, and CSS notes from my learning journey. Includes key concepts, code snippets, and best practices.
+<br>
 Acquired skills through:
 
 [Apna College](https://www.youtube.com/watch?v=VlPiVmYuoqw&ab_channel=ApnaCollege) 
