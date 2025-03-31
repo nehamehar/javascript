@@ -1,3 +1,3 @@
 # JS-learning
 <br>
-This repository contains Java Script notes including HTML, CSS. I made during my JS course learning journey .
+A collection of JavaScript, HTML, and CSS notes from my learning journey. Includes key concepts, code snippets, and best practices.
