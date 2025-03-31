@@ -2,12 +2,12 @@
 <br>
 A collection of JavaScript, HTML, and CSS notes from my learning journey. Includes key concepts, code snippets, and best practices.
 <br>
+<br>
 Acquired skills through:
 
 [Apna College](https://www.youtube.com/watch?v=VlPiVmYuoqw&ab_channel=ApnaCollege) 
 
 🚀 Explore the project here: 
-<br>
 
 JavaScript: 
 [Stone-Paper-Scissors Game](https://github.com/nehamehar/Stone-Paper-Scissors-Game), [Currency Converter](https://github.com/nehamehar/Currency-Converter)
