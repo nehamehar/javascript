@@ -1,6 +1,7 @@
 # JS-learning
 <br>
-A collection of JavaScript, HTML, and CSS notes from my learning journey. Includes key concepts, code snippets, and best practices, completed at [ApnaCollege](https://youtu.be/VlPiVmYuoqw](https://www.youtube.com/watch?v=VlPiVmYuoqw&ab_channel=ApnaCollege) and 🚀 Explore the project here: 
+ [Your Text Here](https://www.example.com)
+A collection of JavaScript, HTML, and CSS notes from my learning journey. Includes key concepts, code snippets, and best practices, completed at [Your Text Here](https://www.example.com) and 🚀 Explore the project here: 
 <br>
 JavaScript: [Stone-Paper-Scissors Game](https://github.com/nehamehar/Stone-Paper-Scissors-Game), [Currency Converter](https://github.com/nehamehar/Currency-Converter)
 <br>
