@@ -7,8 +7,8 @@ Completed at:
 <br>
 🚀 Explore the project here: 
 <br>
-JavaScript: 
 
+JavaScript: 
 [Stone-Paper-Scissors Game](https://github.com/nehamehar/Stone-Paper-Scissors-Game), [Currency Converter](https://github.com/nehamehar/Currency-Converter)
 <br>
 CSS+HTML:
